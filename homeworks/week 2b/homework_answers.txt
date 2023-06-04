@@ -1,0 +1,6 @@
+q1: 0.15.3
+q2: 151 kB
+q3: 10
+q4: min_samples_split
+q5: All of these
+    
