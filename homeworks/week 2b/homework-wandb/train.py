@@ -50,13 +50,18 @@ def run_train(
     y_pred = rf.predict(X_val)
 
     mse = mean_squared_error(y_val, y_pred, squared=False)
-    # TODO: Log `mse` to Weights & Biases under the key `"MSE"`
+    # Log `mse` to Weights & Biases under the key `"MSE"`
+    wandb.log({
+        "MSE": mse
+    })
 
     with open("regressor.pkl", "wb") as f:
         pickle.dump(rf, f)
 
-    # TODO: Log `regressor.pkl` as an artifact of type `model`
-
+    # Log `regressor.pkl` as an artifact of type `model`
+    artifact = wandb.Artifact(f"random-forest-model", type="model")
+    artifact.add_file("regressor.pkl")
+    wandb.log_artifact(artifact)
 
 if __name__ == "__main__":
     run_train()

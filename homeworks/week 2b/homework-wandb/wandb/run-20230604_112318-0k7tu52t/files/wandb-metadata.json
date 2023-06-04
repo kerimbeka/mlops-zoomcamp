@@ -1,0 +1,51 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.11.3",
+    "heartbeatAt": "2023-06-04T10:23:19.510653",
+    "startedAt": "2023-06-04T10:23:18.565259",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--wandb_project",
+        "nyc-taxi",
+        "--wandb_entity",
+        "kerimbeka",
+        "--data_artifact",
+        "kerimbeka/nyc-taxi/NYC-Taxi:v0"
+    ],
+    "state": "running",
+    "program": "C:\\Users\\kerim\\github_repo\\mlops-zoomcamp\\homeworks\\week 2b\\homework-wandb\\sweep.py",
+    "codePath": "homeworks\\week 2b\\homework-wandb\\sweep.py",
+    "host": "MSI",
+    "username": "kerim",
+    "executable": "C:\\Users\\kerim\\anaconda3\\envs\\homework-2-env\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2592.0,
+        "min": 0.0,
+        "max": 2592.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 2592.0
+        }
+    ],
+    "disk": {
+        "total": 455.50585556030273,
+        "used": 171.71184158325195
+    },
+    "gpu": "NVIDIA GeForce RTX 2070",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 2070",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 15.817943572998047
+    }
+}

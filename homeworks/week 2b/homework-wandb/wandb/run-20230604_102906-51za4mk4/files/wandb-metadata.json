@@ -1,0 +1,59 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.11.3",
+    "heartbeatAt": "2023-06-04T09:29:08.150909",
+    "startedAt": "2023-06-04T09:29:06.623277",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--wandb_project",
+        "nyc-taxi",
+        "--wandb_entity",
+        "kerimbeka",
+        "--raw_data_path",
+        "./data",
+        "--dest_path",
+        "./output"
+    ],
+    "state": "running",
+    "program": "C:\\Users\\kerim\\github_repo\\mlops-zoomcamp\\homeworks\\week 2b\\homework-wandb\\preprocess_data.py",
+    "codePath": "homeworks\\week 2b\\homework-wandb\\preprocess_data.py",
+    "git": {
+        "remote": "https://github.com/kerimbeka/mlops-zoomcamp.git",
+        "commit": "e8c5d1b1ebcb890c2b11da464551274eb9f6b24c"
+    },
+    "email": "kerimbeka@gmail.com",
+    "root": "C:/Users/kerim/github_repo/mlops-zoomcamp",
+    "host": "MSI",
+    "username": "kerim",
+    "executable": "C:\\Users\\kerim\\anaconda3\\envs\\homework-2-env\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2592.0,
+        "min": 0.0,
+        "max": 2592.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2592.0,
+            "min": 0.0,
+            "max": 2592.0
+        }
+    ],
+    "disk": {
+        "total": 455.50585556030273,
+        "used": 171.4794158935547
+    },
+    "gpu": "NVIDIA GeForce RTX 2070",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 2070",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 15.817943572998047
+    }
+}
