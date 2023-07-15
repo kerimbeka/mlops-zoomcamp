@@ -1,0 +1,10 @@
+q1: if __name__ == '__main__': 
+    year = int(sys.argv[1])
+    month = int(sys.argv[2])
+    main(year, month)
+q2: To define a package and specify its boundaries
+q3: 3
+q4: aws s3 mb s3://nyc-duration --endpoint-url=http://localhost:4566
+q5: aws s3 ls s3://nyc-duration/in/ --endpoint-url=http://localhost:4566
+    2023-07-15 22:52:02       3667 2022-1.parquet
+q6: 24.781802168802088
