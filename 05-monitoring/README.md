@@ -3,7 +3,7 @@
 ## 5.1 Intro to ML monitoring
 
 <a href="https://www.youtube.com/watch?v=SQ0jBwd_3kk&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK">
-  <img src="images/thumbnail-5-01.jpg">
+  <img src="https://markdown-videos-api.jorgenkh.no/youtube/SQ0jBwd_3kk">
 </a>
 
 
@@ -11,7 +11,7 @@
 ## 5.2 Environment setup
 
 <a href="https://www.youtube.com/watch?v=yixA3C1xSxc&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK">
-  <img src="images/thumbnail-5-02.jpg">
+  <img src="https://markdown-videos-api.jorgenkh.no/youtube/yixA3C1xSxc">
 </a>
 
 
@@ -19,7 +19,7 @@
 ## 5.3 Prepare reference and model
 
 <a href="https://www.youtube.com/watch?v=IjNrkqMYQeQ&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK">
-  <img src="images/thumbnail-5-03.jpg">
+  <img src="https://markdown-videos-api.jorgenkh.no/youtube/IjNrkqMYQeQ">
 </a>
 
 
@@ -27,46 +27,54 @@
 ## 5.4 Evidently metrics calculation
 
 <a href="https://www.youtube.com/watch?v=kP3lzh_HfWY&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK">
-  <img src="images/thumbnail-5-04.jpg">
+  <img src="https://markdown-videos-api.jorgenkh.no/youtube/kP3lzh_HfWY">
 </a>
 
 
+## 5.5 Evidently Monitoring Dashboard
 
-## 5.5 Dummy monitoring
+<a href="https://www.youtube.com/watch?v=zjvYhDPzFlY&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK">
+  <img src="https://markdown-videos-api.jorgenkh.no/youtube/zjvYhDPzFlY">
+</a>
+
+
+## 5.6 Dummy monitoring
 
 <a href="https://www.youtube.com/watch?v=s3G4PMsOMOA&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK">
-  <img src="images/thumbnail-5-05.jpg">
+  <img src="https://markdown-videos-api.jorgenkh.no/youtube/s3G4PMsOMOA">
 </a>
 
 
 
-## 5.6 Data quality monitoring
+## 5.7 Data quality monitoring
 
 <a href="https://www.youtube.com/watch?v=fytrmPbcLhI&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK">
-  <img src="images/thumbnail-5-06.jpg">
+  <img src="https://markdown-videos-api.jorgenkh.no/youtube/fytrmPbcLhI">
 </a>
 
+> Note: in this video we use Prefect (07:33-11:21). Feel free to skip this part. Also note that Prefect
+is not officially supported in the 2024 edition of the course.
 
 
-## 5.7 Save Grafana Dashboard
+## 5.8 Save Grafana Dashboard
 
 <a href="https://www.youtube.com/watch?v=-c4iumyZMyw&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK">
-  <img src="images/thumbnail-5-07.jpg">
+  <img src="https://markdown-videos-api.jorgenkh.no/youtube/-c4iumyZMyw">
 </a>
 
 
 
-## 5.8 Debugging with test suites and reports
+## 5.9 Debugging with test suites and reports
 
 <a href="https://www.youtube.com/watch?v=sNSk3ojISh8&list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK">
-  <img src="images/thumbnail-5-08.jpg">
+  <img src="https://markdown-videos-api.jorgenkh.no/youtube/sNSk3ojISh8">
 </a>
 
 
-## 5.8 Homework
+## Homework
 
 
-More information [here](../cohorts/2023/05-monitoring/homework.md)
+More information [here](../cohorts/2024/05-monitoring/homework.md)
 
 
 ## Notes
@@ -76,6 +84,7 @@ Did you take notes? Add them here:
 * [Week 5 notes by M. Ayoub C.](https://gist.github.com/Qfl3x/aa6b1bec35fb645ded0371c46e8aafd1)
 * [week 5: Monitoring notes Ayoub.B](https://github.com/ayoub-berdeddouch/mlops-journey/blob/main/monitoring-05.md)
 * [Week 5: 2023](https://github.com/dimzachar/mlops-zoomcamp/tree/master/notes/Week_5)
+* [Week5: Why we need to monitor models after deployment? by Hongfan (Amber)](https://github.com/Muhongfan/MLops/blob/main/05-monitoring/README.md)
 * Send a PR, add your notes above this line
 
 
